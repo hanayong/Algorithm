@@ -8,9 +8,7 @@ def mergeSort(a_list):
         mergeSort(lefthalf)
         mergeSort(righthalf)
 
-        i = 0
-        j = 0
-        k = 0
+        i = j = k = 0
         print("[lefthalf]", lefthalf)
         print("[righthalf]", righthalf)
 
