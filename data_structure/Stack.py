@@ -11,7 +11,7 @@ class stack:
  
 stk = stack()      
 print(stk)           
-print(stk.isEmpty()) 
+print(stk.isEmpty())   
 stk.push(1)          
 stk.push(2)          
 print(stk.pop())     
