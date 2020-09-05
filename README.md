@@ -1,2 +1,2 @@
-# Algorithm
-solving algorithm with c++, python
+# What is Algorithm?
+----
