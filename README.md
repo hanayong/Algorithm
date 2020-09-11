@@ -1,5 +1,4 @@
 # What is Algorithm?
-----
 
 # 알고리즘이 뭐야? 
 
