@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # What is Algorithm?
-----
-=======
+
 # 알고리즘이 뭐야? 
 
 알고리즘은 어떠한 문제가 주어졌을 때 그 문제를 해결하기 위한 일련의 절차 혹은 방법이다.
@@ -38,4 +36,4 @@
 ![](https://miro.medium.com/max/695/0*_pZdQCZ2LGo9gPy9)
 
 # 
->>>>>>> cc76d690d6673f9eba5ac90d2b56fd7505910e5f
+
